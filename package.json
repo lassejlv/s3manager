@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "vite dev --port 3000",
     "build": "bun --bun vite build",
-    "serve": "vite preview",
+    "start": "bun server.ts",
     "test": "vitest run"
   },
   "dependencies": {
